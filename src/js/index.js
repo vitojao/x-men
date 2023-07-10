@@ -1,7 +1,7 @@
 /* 
-  O que precisamos fazer? - quando passar o mouse em cima do personagem na lista temos que adicionar a borda azul de seleção na imagem pequena do personagem e mostrar a imagem, o nome e o texto grande do personagem que está selecionado
+  O que preciso fazer? - quando passar o mouse em cima do personagem na lista tenho que adicionar a borda azul de seleção na imagem pequena do personagem e mostrar a imagem, o nome e o texto grande do personagem que está selecionado
 
-    OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devemos selecioná-lo
+    OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devo selecioná-lo
         passo 1 - pegar os personagens no JS pra poder verificar quando o usuário passar o mouse em cima de um deles
         
         passo 2 - adicionar a classe selecionado no personagem que o usuário passar o cursor do mouse
@@ -15,7 +15,7 @@
         passo 4 - alterar a descrição do personagem grande
 */
 
-// OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devemos selecioná-lo
+// OBJETIVO 1 - quando passar o mouse em cima do personagem na listagem, devo selecioná-lo
 // passo 1 - pegar os personagens no JS pra poder verificar quando o usuário passar o mouse em cima de um deles
 
 const personagens = document.querySelectorAll('.personagem');
