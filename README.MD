@@ -24,4 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de seleção de personagens de X-Men com uma descrição respectiva ao personagem selecionado.
 
----
+- [Acesse o projeto finalizado, online](https://vitojao.github.io/x-men/)
+
+Feito com ♥ by [vitojaodev](https://vitojao.github.io/devlinks/) :wave:
+
